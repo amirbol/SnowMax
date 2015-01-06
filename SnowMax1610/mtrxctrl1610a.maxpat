@@ -377,7 +377,7 @@
 					"patching_rect" : [ 725.0, 602.0, 312.0, 29.0 ],
 					"presentation" : 0,
 					"presentation_rect" : [ 0.0, 0.0, 0.0, 0.0 ],
-					"text" : "4. X,Y,Z,Size for each finger",
+					"text" : "3. X,Y,Z,Size for each finger",
 					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"textjustification" : 0,
 					"underline" : 0
