@@ -14,6 +14,6 @@ To use this patches you need to do the following:
 If you have any suggestion or problems please send me email:
 amirbol@gmail.com
 
-Been checked only on Max 6.1.7(32bit) Os x 10.8.5
+Been checked only on Max 6.1.7 and Max 7.0(32bit) Os x 10.8.5
 
  
