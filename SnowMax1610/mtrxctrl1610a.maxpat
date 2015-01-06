@@ -9,7 +9,7 @@
 		}
 ,
 		"rect" : [ 7.0, 44.0, 1411.0, 806.0 ],
-		"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+		"bgcolor" : [ 0.981928, 0.963855, 1.0, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 10.0,
@@ -509,7 +509,7 @@
 					"hltcolor" : [ 0.92, 0.92, 0.92, 1.0 ],
 					"id" : "obj-13",
 					"ignoreclick" : 0,
-					"items" : [ "Bluetooth-Serial-1", ",", "Bluetooth-Serial-2", ",", "Bluetooth-Modem", ",", "Bluetooth-PDA-Sync", ",", "usbmodemfd131", ",", 5, ",", 6, ",", 7 ],
+					"items" : [ "Bluetooth-Serial-1", ",", "Bluetooth-Serial-2", ",", "Bluetooth-Modem", ",", "Bluetooth-PDA-Sync", ",", "usbmodemfa141", ",", 5, ",", 6, ",", 7 ],
 					"labelclick" : 1,
 					"maxclass" : "umenu",
 					"menumode" : 0,
@@ -3929,8 +3929,8 @@
 , 			{
 				"box" : 				{
 					"background" : 0,
-					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"bordercolor" : [ 0.5, 0.5, 0.5, 1.0 ],
+					"bgcolor" : [ 0.020337, 1.0, 0.0, 1.0 ],
+					"bordercolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"checkedcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"hidden" : 0,
 					"id" : "obj-6",
@@ -4489,7 +4489,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "draw3d.maxpat",
-				"bootpath" : "/Volumes/amir/NewMusic/my max/SnowMax1/SnowMax1610",
+				"bootpath" : "/Volumes/amir/NewMusic/my max/SnowMax1/SnowMax/SnowMax1610",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
